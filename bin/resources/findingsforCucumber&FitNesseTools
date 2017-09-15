@@ -1,0 +1,6 @@
+As per my thinking cucumber is the better tool over FitNesse as cucumber is based on requirements and
+ fulfilling user requirements is whole and sole purpose of developing software.
+Cucumber also gets executed faster than FitNesse
+Cucumber took 50.761 seconds whereas FitNesse took 52.555 seconds to 8 small scenarios.
+
+it is easy in cucumber to track the requirements where as in FitNesse we need track requirements seperatly.
